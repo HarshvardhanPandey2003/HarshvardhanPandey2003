@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshvardhanPandey2003
 - 👀 I’m interested in the field of Data Science
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning MLOPS 
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me harshvardhanpandey2003@gmail.com
 
