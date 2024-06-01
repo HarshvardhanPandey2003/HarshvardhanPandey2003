@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshvardhan Pandey
 - 👀 I’m interested in the field of Data Science
-- 🌱 I’m currently learning MLOPS 
+- 🌱 I’m currently learning Backend and Cloud 
 - 💞️ I’m looking to collaborate on Linkedin
 - 📫 How to reach me harshvardhanpandey2003@gmail.com
 
