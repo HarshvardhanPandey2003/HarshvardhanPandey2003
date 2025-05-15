@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Harshvardhan Pandey
-- 👀 I've made projects on Data Science and AWS with Deployment 
-- 🌱 I’m currently working MERN Stack Projects
-- 💞️ I’m looking to collaborate on Linkedin
+- 👀 I've made projects on Data Science , Web Developement, AWS Services and Devops  
+- 🌱 I’m currently working on Spring Boot ,Cloud Computing, Devops and DSA 
 - 📫 How to reach me harshvardhanpandey2003@gmail.com
 
 <!---
