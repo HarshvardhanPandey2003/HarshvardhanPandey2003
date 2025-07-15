@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshvardhan Pandey
-- 👀 I've made projects on Data Science , Web Developement, AWS Services 
+- 👀 I've made projects on Data Science and Web Developement 
 - 🌱 I’m currently working on Spring Boot, Devops and DSA 
 - 📫 How to reach me harshvardhanpandey2003@gmail.com
 
